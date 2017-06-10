@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "request": "^2.65.0",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^3.0.0",
+    "nock": "^2.17.0",
+    "pump": "^1.0.2",
+    "sinon": "^1.17.7"
+  }
+}
